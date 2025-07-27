@@ -43,7 +43,7 @@ In the fast-paced digital communication era, hilarious, spontaneous moments ofte
   - Physical attributes
   - Skin tone
   - Facial structure
-  - and around total of 40 attributes
+  - and around total of 68 attributes
 #### 🧠 Dlib Landmark Visualization (68 points)
 ![Dlib 68 Landmarks](./Dlib.jpeg)
 ### 4. Creative Prompt Generation 💡
